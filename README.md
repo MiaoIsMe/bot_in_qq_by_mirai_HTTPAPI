@@ -1,0 +1,2 @@
+# bot_in_qq_by_mirai_HTTPAPI
+基于Mirai机器人上的HTTP API插件进行的qq群聊机器人的开发
